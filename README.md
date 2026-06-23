@@ -546,3 +546,5 @@ We're using the GitHub [releases][changelog] for changelog entries.
 [socks-proxy-agent]: https://github.com/TooTallNate/node-socks-proxy-agent
 [utf-8-validate]: https://github.com/websockets/utf-8-validate
 [ws-server-options]: ./doc/ws.md#new-websocketserveroptions-callback
+
+## License
